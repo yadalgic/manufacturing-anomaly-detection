@@ -31,6 +31,7 @@ threshold = mean + 2 * std
 
 ## 📷 Output
 ![output](output.png)
+![output](output2.png)
 
 ## 🛠️ Tech Stack
 - Python
